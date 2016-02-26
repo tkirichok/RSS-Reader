@@ -1,0 +1,30 @@
+{
+  "name": "rssReader",
+  "authors": [
+    "tkirichok <tanya.kirichok@gmail.com>"
+  ],
+  "description": "rss reader",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "rss",
+    "letter",
+    "frequency"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.5.0",
+    "handlebars": "^4.0.5",
+    "moment": "^2.11.2",
+    "Chart.js": "^1.0.2"
+  }
+}

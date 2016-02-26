@@ -1,0 +1,8 @@
+                        <ul class="list-unstyled list-group">
+                            {{#each feeds}}
+                            <!--<li class = "list-group-item">-->
+                            <a href="#" class="list-group-item" model = "{{content}}" link = "{{link}}">
+                                {{author}}@{{date}}&nbsp{{title}}
+                            </a>
+                            {{/each}}
+                        </ul>
