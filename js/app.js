@@ -12,8 +12,8 @@
              var state = {
                  listChannel: [
                      {
-                         name: "Velo-sport",
-                         url: "http://velo-sport.sumy.ua/forum/feed.php",
+                         name: "Beetroot",
+                         url: "http://feeds.feedburner.com/Rootbeet",
                              },
                      {
                          name: "Stack Overflow",
